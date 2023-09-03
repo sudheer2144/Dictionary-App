@@ -1,0 +1,22 @@
+.search {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.searchInput {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+
+button {
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(40, 40, 38);
+    cursor: pointer;
+}

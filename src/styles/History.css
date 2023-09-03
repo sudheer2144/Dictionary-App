@@ -1,0 +1,10 @@
+.history {
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.historyLinks {
+    background-color: white;
+    width: fit-content;
+}
